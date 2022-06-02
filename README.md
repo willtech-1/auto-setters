@@ -11,10 +11,10 @@ Customers can filter/select car brand of their choice.<br />
 Customers can select the year or model of the car based on their choice.
 
 ## Technologies
-HTML5
-CSS3
-JavaScript
-React
+HTML5<br />
+CSS3<br />
+JavaScript<br />
+React<br />
 Contentful CMS
 
 
