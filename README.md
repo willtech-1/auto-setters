@@ -1,16 +1,16 @@
-## Auto-Setters
+# Auto-Setters
 **link(https://auto-setters.netlify.app/)**
 
-**What is it?**
+## What is it?
 It is a car dealership web application, where customers can browse and see which cars are available.<br />
 If customer is interested they can send message to the dealership.
 
-**Functionalities**
+## Functionalities
 Customer can filter using car prices.<br />
 Customers can filter/select car brand of their choice.<br />
 Customers can select the year or model of the car based on their choice.
 
-**Technologies**
+## Technologies
 HTML5
 CSS3
 JavaScript
