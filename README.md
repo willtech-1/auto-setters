@@ -8,9 +8,9 @@ customers can filter the app using car prices, car brands, and model of cars ava
 ![auto-setters](https://user-images.githubusercontent.com/70260072/200794191-64bc30ca-d6a2-48dd-9323-0353472b204b.png)
 
 ## Table of Contents
-[Technologies](#Technologies)
-  
-
+* [Technologies](#Installation)
+* [Technologies](#Functionalities)
+* [Technologies](#Technologies)
    
 
 ## Installation
@@ -29,7 +29,7 @@ npm install
 npm start
 ```
 
-## 🌱 Functionalities
+## Functionalities
 * Customers are able to see available cars and contact the dealership for enquiries
 * Customers can filter using Car Prices
 * Customers can filter/select available Car Brand of their choice
