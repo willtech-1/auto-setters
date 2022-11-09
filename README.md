@@ -20,7 +20,7 @@ customers can filter the app using car prices, car brands, and model of cars ava
 cd my-app
 ```
 3. To check whether you are at the right directory type ls on your terminal and you will get list of your files in that directory
-4. Then type npm install on your terminal to install node_modules and all the dev dependencies for the project
+4. Then type npm install on your terminal to install node_modules for all the dev dependencies for the project
 ```bash
 npm install
 ```
