@@ -1,5 +1,5 @@
-# Welcome to Auto-Setters Car Dealership 
-**link(https://auto-setters.netlify.app/)**
+# Welcome to Auto-Setters Car Dealership  ![waving-emoji](https://user-images.githubusercontent.com/70260072/200792624-f2c130db-2122-4318-a663-9c5d557a42f1.png)
+### Project Link(https://auto-setters.netlify.app/)
 
 ## What is it?
 It is a car dealership web application, where customers can browse and see which cars are available.<br />
