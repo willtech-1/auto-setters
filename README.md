@@ -14,7 +14,7 @@ customers can filter the app using car prices, car brands, and model of cars ava
    
 
 ## Installation
-1. Navigate to your terminal or (Ctrl+`) 
+1. Navigate to your terminal or (Ctrl+Shift+`) 
 2. Then change your directory to my-app folder type cd my-app on your terminal
 ```bash
 cd my-app
