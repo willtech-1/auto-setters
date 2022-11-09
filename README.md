@@ -7,6 +7,28 @@ customers can filter the app using car prices, car brands, and model of cars ava
 
 ![auto-setters](https://user-images.githubusercontent.com/70260072/200794191-64bc30ca-d6a2-48dd-9323-0353472b204b.png)
 
+## Table of Contents
+[Go to Real Cool Heading section](#real-cool-heading)
+  
+
+   
+
+## Installation
+1. Navigate to your terminal or (Ctrl+`) 
+2. Then change your directory to my-app folder type cd my-app on your terminal
+```bash
+cd my-app
+```
+3. To check whether you are at the right directory type ls on your terminal and you will get list of your files in that directory
+4. Then type npm install on your terminal to install node_modules and all the dev dependencies for the project
+```bash
+npm install
+```
+5. Then type npm start to start your development of the application, it will open your browser on http://localhost:3080
+```bash
+npm start
+```
+
 ## 🌱 Functionalities
 * Customers are able to see available cars and contact the dealership for enquiries
 * Customers can filter using Car Prices
