@@ -37,7 +37,7 @@ npm start
 * Custumers are able to see features that each Single Car has
 
 
-## 👨‍💻 Technologies
+## Technologies
 HTML5<br />
 CSS3<br />
 JavaScript<br />
