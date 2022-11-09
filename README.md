@@ -38,10 +38,10 @@ npm start
 
 
 ## Technologies
-HTML5<br />
-CSS3<br />
-JavaScript<br />
-ReactJS<br />
-Contentful CMS
+* HTML5
+* CSS3
+* JavaScript
+* ReactJS
+* Contentful CMS
 
 
